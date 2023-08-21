@@ -1,0 +1,15 @@
+/Users/dimanchous/Projects/MonoTest/MonoTest/obj/Debug/net6.0/MonoTest.csproj.AssemblyReference.cache
+/Users/dimanchous/Projects/MonoTest/MonoTest/obj/Debug/net6.0/MonoTest.GeneratedMSBuildEditorConfig.editorconfig
+/Users/dimanchous/Projects/MonoTest/MonoTest/obj/Debug/net6.0/MonoTest.AssemblyInfoInputs.cache
+/Users/dimanchous/Projects/MonoTest/MonoTest/obj/Debug/net6.0/MonoTest.AssemblyInfo.cs
+/Users/dimanchous/Projects/MonoTest/MonoTest/obj/Debug/net6.0/MonoTest.csproj.CoreCompileInputs.cache
+/Users/dimanchous/Projects/MonoTest/MonoTest/bin/Debug/net6.0/MonoTest
+/Users/dimanchous/Projects/MonoTest/MonoTest/bin/Debug/net6.0/MonoTest.deps.json
+/Users/dimanchous/Projects/MonoTest/MonoTest/bin/Debug/net6.0/MonoTest.runtimeconfig.json
+/Users/dimanchous/Projects/MonoTest/MonoTest/bin/Debug/net6.0/MonoTest.dll
+/Users/dimanchous/Projects/MonoTest/MonoTest/bin/Debug/net6.0/MonoTest.pdb
+/Users/dimanchous/Projects/MonoTest/MonoTest/obj/Debug/net6.0/MonoTest.dll
+/Users/dimanchous/Projects/MonoTest/MonoTest/obj/Debug/net6.0/refint/MonoTest.dll
+/Users/dimanchous/Projects/MonoTest/MonoTest/obj/Debug/net6.0/MonoTest.pdb
+/Users/dimanchous/Projects/MonoTest/MonoTest/obj/Debug/net6.0/MonoTest.genruntimeconfig.cache
+/Users/dimanchous/Projects/MonoTest/MonoTest/obj/Debug/net6.0/ref/MonoTest.dll
